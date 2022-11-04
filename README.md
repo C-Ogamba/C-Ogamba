@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Kemunto Cindy</h1>
+<h1 align="center">Hi there 👋, I'm Kemunto Cindy</h1>
 <h3 align="center">It works on my machine.</h3>
 
 - 🌱 I’m currently learning **React, Cloud Computing**
