@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kemunto Cindy</h1>
-<h3 align="center">It works on my machine.</h3>
+<h3 align="center"><em>let's connect<em></h3>
 
 - 🌱 I’m currently learning **React, Cloud Computing**
 
