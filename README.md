@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi there 👋, I'm Kemunto Cindy</h1>
 <h3 align="center"><em>It works on my machine!!<em></h3>
 
