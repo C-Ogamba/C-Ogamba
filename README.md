@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=C-Ogamba&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">Hi there 👋, I'm Kemunto Cindy</h1>
-<h3 align="center"><em>It works on my machine!!<em></h3>
+<h3 align="center"><em>It works on my machine!!!<em></h3>
   
 <div align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="600" height="300"/>
